@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-co/.github/main/profile/banner.png" alt="ITS – Innovative Technical Solutions" width="100%">
+</p>
+
 # ITS – Innovative Technical Solutions
 
 We build **business management systems** that run real operations: inventory, sales, finance and HR.
